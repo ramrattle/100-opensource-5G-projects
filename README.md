@@ -270,3 +270,6 @@ network-slicing — Network Slice Management Interface.
 Esim — This Go eSIM module processes eUICC IDentifier (EID) used in the context of Remote Provisioning and Management of the eUICC (eSIM) in according to GSM Association Official Document SGP.02 (Remote Provisioning of Embedded UICC Technical Specification) and SGP.22 (RSP Technical Specification) for EID using the ITU-T E.118.
 
 https://open5g.info/- Collection of nice tools (some are already mentioned here) from northwestern university.
+
+NR-V2X-SL-LinkLevelSimulator
+https://github.com/uwicore/NR-V2X-SL-LinkLevelSimulator
