@@ -122,8 +122,9 @@ free5gmano — This is a 5G MANO (Management and Network Orchestration) project 
 opnfv — Open Platform for NFV (OPNFV) facilitates the development and evolution of NFV components across various open source ecosystems.
 
 
-**ORAN specific:
-**https://github.com/oran-testing/ran-tester-ue
+**ORAN specific:**
+
+ORAN UE security testing : https://github.com/oran-testing/ran-tester-ue
 
 
 **Miscellaneous :
