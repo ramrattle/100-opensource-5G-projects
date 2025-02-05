@@ -1,7 +1,7 @@
 # 100-opensource-5G-projects
 
-RAN:
-My handpicked projects:
+**RAN:**
+**My handpicked projects:**
 
 SD-RAN From ONF :https://opennetworking.org/sd-ran/
 
@@ -51,7 +51,7 @@ ORAN Fronthaul mini switch — https://github.com/diogo-marques/ORAN_FH_SW
 
 https://openrangym.com/
 
-CORE:
+**CORE:**
 My handpicked projects:
 
 free5GC — Open source 5G core network base on 3GPP R15.
@@ -102,8 +102,8 @@ Kubesim_5gc 5GC — core node kubedge simulator.
 
 corescope — 5G core testing solution.
 
-PLATFORMS:
-My handpicked projects:
+**PLATFORMS:
+My handpicked projects:**
 
 ONAP — Open Network Automation Platform.
 
@@ -121,8 +121,13 @@ free5gmano — This is a 5G MANO (Management and Network Orchestration) project 
 
 opnfv — Open Platform for NFV (OPNFV) facilitates the development and evolution of NFV components across various open source ecosystems.
 
-Miscellaneous :
 
+**ORAN specific:
+**https://github.com/oran-testing/ran-tester-ue
+
+
+**Miscellaneous :
+**
 katana-slice_manager — 5G Network E2E Slice Manager.
 
 OpenNESS — This repository includes the literature related to OpenNESS solution.
