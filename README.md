@@ -125,7 +125,7 @@ opnfv — Open Platform for NFV (OPNFV) facilitates the development and evolutio
 **ORAN specific:**
 
 ORAN UE security testing : https://github.com/oran-testing/ran-tester-ue
-
+ORAN NS3 simulation https://github.com/usnistgov/ns3-oran#installation
 
 **Miscellaneous :
 **
