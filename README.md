@@ -279,3 +279,6 @@ https://open5g.info/- Collection of nice tools (some are already mentioned here)
 
 NR-V2X-SL-LinkLevelSimulator
 https://github.com/uwicore/NR-V2X-SL-LinkLevelSimulator
+
+compact 5G core
+https://github.com/nplrkn/qcore
