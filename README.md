@@ -23,6 +23,7 @@
 - FlexRAN - https://github.com/intel/FlexRAN (softwarized RAN platform with runtime programmability)
 - ORAN Fronthaul mini switch - https://github.com/diogo-marques/ORAN_FH_SW
 - Open RAN Gym - https://openrangym.com/
+- RUST based gnbsim - https://github.com/NextgCoreLab/nextgsim
 
 ## Core
 - free5GC - https://github.com/free5gc/free5gc (open source 5G core network based on 3GPP R15)
@@ -49,6 +50,7 @@
 - Kubesim_5gc 5GC - core node kubedge simulator
 - corescope - 5G core testing solution
 - compact 5G core - https://github.com/nplrkn/qcore
+- RUST based core - https://github.com/NextgCoreLab/nextgcore
 
 ## Platforms
 - ONAP - https://github.com/onap (Open Network Automation Platform)
