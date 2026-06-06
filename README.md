@@ -68,6 +68,7 @@
 - ORAN UE security testing - https://github.com/oran-testing/ran-tester-ue
 - ORAN NS3 simulation - https://github.com/usnistgov/ns3-oran#installation
 - NS3 simulator for IBN - https://github.com/Orange-OpenSource/ns3-iboran
+- SCO and SRS Announce the Availability of IQ Data Tap for the OCUDU Open Source Project - https://gitlab.com/ocudu/plugin_examples/phy_tap_plugin_example/
 ## Miscellaneous
 - katana-slice_manager - 5G network E2E slice manager
 - OpenNESS - literature related to OpenNESS solution
