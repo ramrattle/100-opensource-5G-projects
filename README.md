@@ -151,3 +151,6 @@
 - Sionna: An Open-Source Library for Next-Generation Physical Layer Research - https://arxiv.org/abs/2203.11854 (code: https://github.com/NVlabs/sionna)
 - Calibration of the 5G-LENA System Level Simulator in 3GPP reference scenarios - https://arxiv.org/abs/2205.03278 (code: https://gitlab.com/cttc-lena/nr)
 - 5G mmWave Module for ns-3 Network Simulator - https://arxiv.org/abs/1506.08801 (code: https://github.com/nyuwireless-unipd/ns3-mmwave)
+
+## NTN
+- Open-Source 5G NR Non-Terrestrial Network (NTN) Testbed https://github.com/sabbir-uoulu/open-source-5g-ntn
