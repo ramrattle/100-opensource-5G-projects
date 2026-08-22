@@ -1,5 +1,12 @@
 # 100+-opensource-5G-projects
 
+**Last reviewed:** 22 August 2026
+
+## What's new
+- Added PacketRusher for high-scale 5GC control-plane and user-plane load testing.
+- Added NIST O-RAN Testbed Automation for reproducible multi-component deployments.
+- Added ORANSlice for end-to-end OAI-based RAN/core slicing with near-RT RIC control.
+
 ## RAN
 - SD-RAN from ONF - https://opennetworking.org/sd-ran/ (near real-time RIC, sandbox for xApps)
 - OAI - https://openairinterface.org/oai-5g-ran-project/ (NSA + SA gNB and UE)
@@ -24,6 +31,7 @@
 - ORAN Fronthaul mini switch - https://github.com/diogo-marques/ORAN_FH_SW
 - Open RAN Gym - https://openrangym.com/
 - RUST based gnbsim - https://github.com/NextgCoreLab/nextgsim
+- PacketRusher - https://github.com/HewlettPackard/PacketRusher (Apache-2.0 high-performance UE/gNB simulator and N1/N2/N3 load tester; supports multi-UE scenarios, PDU sessions, mobility procedures, roaming, SUCI profiles, and packet capture)
 
 ## Core
 - free5GC - https://github.com/free5gc/free5gc (open source 5G core network based on 3GPP R15)
@@ -65,6 +73,8 @@
 - Nephio - https://github.com/nephio-project/nephio (K8s automation for cloud-native telecom)
 
 ## ORAN specific
+- NIST O-RAN Testbed Automation - https://github.com/usnistgov/O-RAN-Testbed-Automation (turn-key deployment of OAI or OCUDU RAN, O-RAN SC or FlexRIC RICs, Open5GS/OAI/free5GC cores, UEs, and example xApps on VMs or physical hosts)
+- ORANSlice - https://github.com/wineslab/ORANSlice (GPL-3.0 end-to-end OAI-based 5G slicing framework with core/RAN slicing, E2SM-CCC service model, and near-RT RIC xApp control; validated on Arena and X5G)
 - ORAN UE security testing - https://github.com/oran-testing/ran-tester-ue
 - ORAN NS3 simulation - https://github.com/usnistgov/ns3-oran#installation
 - NS3 simulator for IBN - https://github.com/Orange-OpenSource/ns3-iboran
