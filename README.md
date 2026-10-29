@@ -156,6 +156,8 @@
 - Esim - Go eSIM module for eUICC EID processing
 - open5g.info - https://open5g.info/ (collection of tools)
 - NR-V2X-SL-LinkLevelSimulator - https://github.com/uwicore/NR-V2X-SL-LinkLevelSimulator
+- Golden Sniffer - Low-Complexity 5G NR Signal Interception https://github.com/5G-GoldenSniffer/5G-GoldenSniffer
+
 
 ## Open-Access Papers + Open-Sourced Code
 - Sionna: An Open-Source Library for Next-Generation Physical Layer Research - https://arxiv.org/abs/2203.11854 (code: https://github.com/NVlabs/sionna)
