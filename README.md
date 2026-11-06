@@ -1,16 +1,21 @@
 # 100+-opensource-5G-projects
 
-**Last reviewed:** 22 August 2026
+**Last reviewed:** 6 November 2026
 
 ## What's new
+- Added OCUDU, the Linux Foundation-hosted CU/DU stack that continues the srsRAN Project; OCUDU 26.10 (8 October 2026) adds Release 17 NTN, 8T8R MIMO, multi-beam operation, and O-RAN split 7.2b.
+- Noted that the srsRAN Project GitHub repository was archived on 1 June 2026 (last release 25.10); new development happens in OCUDU.
+- Updated OAI: the RAN is now developed as Duranta under LF Networking (announced August 2025), and since tag 2026.w14 it is licensed under the Collaborative Standards Software License (CSSL) v1.0.
+- Updated free5GC (v4.3.0, September 2026, with an integrated SCP) and Open5GS (v2.8.0, June 2026, Release 19 protocol support).
 - Added PacketRusher for high-scale 5GC control-plane and user-plane load testing.
 - Added NIST O-RAN Testbed Automation for reproducible multi-component deployments.
 - Added ORANSlice for end-to-end OAI-based RAN/core slicing with near-RT RIC control.
 
 ## RAN
 - SD-RAN from ONF - https://opennetworking.org/sd-ran/ (near real-time RIC, sandbox for xApps)
-- OAI - https://openairinterface.org/oai-5g-ran-project/ (NSA + SA gNB and UE)
-- srsRAN - https://www.srsran.com/ (full stack gNB and UE)
+- OAI - https://openairinterface.org/oai-5g-ran-project/ (NSA + SA gNB and UE; RAN now developed as Duranta under LF Networking at https://github.com/duranta-project/openairinterface5g, CSSL v1.0 license since tag 2026.w14)
+- srsRAN - https://www.srsran.com/ (full stack gNB and UE; the srsRAN Project repo was archived on 1 June 2026 after release 25.10, and development continues as OCUDU)
+- OCUDU - https://gitlab.com/ocudu/ocudu (Linux Foundation-hosted, BSD-3-Clause CU/DU with full L1/L2/L3 stack; GitHub mirror https://github.com/ocudu/ocudu; OCUDU 26.10 adds Release 17 NTN, 8T8R MIMO, multi-beam, and split 7.2b)
 - oransc - https://github.com/o-ran-sc (seed code from O-RAN Alliance)
 - O-RAN Software Community (O-RAN SC) - https://github.com/o-ran-sc/ (near-RT RIC platform, SMO, xApps)
 - gnbsim - 5G SA gNB/UE simulator for testing 5GC system (origin repo deleted; see backup in issue #9)
@@ -34,9 +39,9 @@
 - PacketRusher - https://github.com/HewlettPackard/PacketRusher (Apache-2.0 high-performance UE/gNB simulator and N1/N2/N3 load tester; supports multi-UE scenarios, PDU sessions, mobility procedures, roaming, SUCI profiles, and packet capture)
 
 ## Core
-- free5GC - https://github.com/free5gc/free5gc (open source 5G core network based on 3GPP R15)
+- free5GC - https://github.com/free5gc/free5gc (open source 5G core network based on 3GPP R15; v4.3.0 in September 2026 integrates the SCP)
 - Magma - https://github.com/magma/magma (open source 4G/5G core built on k8s)
-- open5gs - https://github.com/open5gs/open5gs (C-language implementation of 5GC and EPC, Release 16)
+- open5gs - https://github.com/open5gs/open5gs (C-language implementation of 5GC and EPC; v2.8.0 in June 2026 moved protocol support to Release 19)
 - cnvopen5gcore - https://github.com/fenar/cnvopen5gcore (5G core + RAN/UE simulator on OpenShift)
 - Internship-5GCN - RESTful web services between 5G control plane nodes (AMF/NRF/SMF/UDM)
 - OAI-CN - https://github.com/OPENAIRINTERFACE/openair-cn5g (4G EPC and 5G core network)
@@ -166,3 +171,4 @@
 
 ## NTN
 - Open-Source 5G NR Non-Terrestrial Network (NTN) Testbed https://github.com/sabbir-uoulu/open-source-5g-ntn
+- OCUDU 26.10 - https://gitlab.com/ocudu/ocudu (open-source CU/DU with 3GPP Release 17 NTN support; several features still await hardware testing)
